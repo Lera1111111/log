@@ -1,0 +1,13 @@
+{
+  "name": "logarithms-without-stress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Статический тренажёр для GitHub Pages",
+  "scripts": {
+    "test": "node engine.test.cjs",
+    "test:ui": "node ui.test.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}
